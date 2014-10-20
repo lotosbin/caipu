@@ -3,6 +3,5 @@ caipu
 
 caipu 菜谱
 
+[目录](index.md)
 
-* [蔬菜粥](shucaizhou.md)
-* [红烧排骨](hongshaopaigu.md)
